@@ -1,5 +1,4 @@
 // Insert your code here
-var n = 10
-var jariJari = n * n
-var pi = 3;
-console.log(2*jariJari * pi);
+var jariJari =10
+var pi = 3.14;
+console.log('keliling adalah',2*jariJari * pi);
